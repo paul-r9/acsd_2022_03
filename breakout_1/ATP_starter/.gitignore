@@ -16,3 +16,9 @@ vendor/
 
 #JetBrains IDE
 .idea/
+*.classpath
+*.project
+*.exe
+.settings/
+.gitignore
+
